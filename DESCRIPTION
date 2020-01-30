@@ -1,0 +1,11 @@
+Package: dataIncome
+Type: Package
+Title: X
+Version: 1.0 
+Date: 2020-01-30
+Author: D. Bonnery
+Maintainer: D. Bonnery  <dbonnery@umd.edu>
+Description: Data
+License: GPL (>= 2)
+LazyLoad: yes
+LazyData: true
